@@ -1,6 +1,6 @@
 # Pacman
 Um jogo do Pac-Man
-O Pacman é controlado usando as setas do teclados:
+O Pacman é controlado usando as teclas:
 ```
 Seta para cima: move o Pacman para cima 
 Seta para baixo: move o Pacman para baixo 
