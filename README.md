@@ -8,3 +8,6 @@ Seta para direita: move o Pacman para direita
 Seta para esquerda: move o Pacman para esquerda 
 ESC: Pausa o Jogo
 ```
+
+## Atenção
+É necessário a biblioteca pygame
